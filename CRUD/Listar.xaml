@@ -10,6 +10,7 @@
         <ComboBox x:Name="cbxTablas" HorizontalAlignment="Left" Margin="10,84,0,0" VerticalAlignment="Top" Width="120"/>
         <DataGrid x:Name="GrillaEmpleados" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,133,10,133"/>
         <Label x:Name="lblTablas" Content="Tablas" HorizontalAlignment="Left" Margin="10,53,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btbAtras" Content="Atrás" HorizontalAlignment="Left" Margin="276,354,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

@@ -11,20 +11,12 @@
       "RelativeMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|solutionrelative:crud\\listar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|c:\\users\\nacho\\source\\repos\\crud\\crud\\crud.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|solutionrelative:crud\\crud.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|c:\\users\\nacho\\source\\repos\\crud\\crud\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|solutionrelative:crud\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|c:\\users\\nacho\\source\\repos\\crud\\crud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|solutionrelative:crud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|c:\\users\\nacho\\source\\repos\\crud\\crud\\assemblyinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|solutionrelative:crud\\assemblyinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|c:\\users\\nacho\\source\\repos\\crud\\crud\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3D6B274-564F-4A93-A08A-8C06822A14D8}|CRUD\\CRUD.vbproj|solutionrelative:crud\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +30,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CRUD",
-              "DocumentMoniker": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\CRUD.vbproj",
-              "RelativeDocumentMoniker": "CRUD\\CRUD.vbproj",
-              "ToolTip": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\CRUD.vbproj",
-              "RelativeToolTip": "CRUD\\CRUD.vbproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
-              "WhenOpened": "2025-03-28T13:37:42.972Z",
+              "DocumentIndex": 3,
+              "Title": "mainwindow.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\mainwindow.xaml.vb",
+              "RelativeDocumentMoniker": "CRUD\\mainwindow.xaml.vb",
+              "ToolTip": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\mainwindow.xaml.vb",
+              "RelativeToolTip": "CRUD\\mainwindow.xaml.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-28T15:28:19.699Z",
               "EditorCaption": ""
             },
             {
@@ -57,9 +49,9 @@
               "RelativeDocumentMoniker": "CRUD\\Listar.xaml.vb",
               "ToolTip": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\Listar.xaml.vb",
               "RelativeToolTip": "CRUD\\Listar.xaml.vb",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwCgAAAA4AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-28T13:55:59.082Z",
+              "WhenOpened": "2025-03-28T15:09:38.477Z",
               "EditorCaption": ""
             },
             {
@@ -71,45 +63,19 @@
               "ToolTip": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\Listar.xaml",
               "RelativeToolTip": "CRUD\\Listar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-28T13:37:58.365Z",
+              "WhenOpened": "2025-03-28T15:06:21.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "mainwindow.xaml.vb",
-              "DocumentMoniker": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\mainwindow.xaml.vb",
-              "RelativeDocumentMoniker": "CRUD\\mainwindow.xaml.vb",
-              "ToolTip": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\mainwindow.xaml.vb",
-              "RelativeToolTip": "CRUD\\mainwindow.xaml.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-28T13:36:02.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "mainwindow.xaml",
               "DocumentMoniker": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\mainwindow.xaml",
               "RelativeDocumentMoniker": "CRUD\\mainwindow.xaml",
               "ToolTip": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\mainwindow.xaml",
               "RelativeToolTip": "CRUD\\mainwindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-28T13:35:21.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AssemblyInfo.vb",
-              "DocumentMoniker": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\AssemblyInfo.vb",
-              "RelativeDocumentMoniker": "CRUD\\AssemblyInfo.vb",
-              "ToolTip": "C:\\Users\\Nacho\\source\\repos\\CRUD\\CRUD\\AssemblyInfo.vb",
-              "RelativeToolTip": "CRUD\\AssemblyInfo.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-03-28T13:33:06.356Z",
+              "WhenOpened": "2025-03-28T15:06:18.378Z",
               "EditorCaption": ""
             }
           ]

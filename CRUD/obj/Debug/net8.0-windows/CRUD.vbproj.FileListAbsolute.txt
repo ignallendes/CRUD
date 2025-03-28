@@ -28,3 +28,4 @@ C:\Users\Nacho\source\repos\CRUD\CRUD\bin\Debug\net8.0-windows\runtimes\unix\lib
 C:\Users\Nacho\source\repos\CRUD\CRUD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
 C:\Users\Nacho\source\repos\CRUD\CRUD\obj\Debug\net8.0-windows\CRUD.vbproj.AssemblyReference.cache
 C:\Users\Nacho\source\repos\CRUD\CRUD\obj\Debug\net8.0-windows\CRUD.vbproj.Up2Date
+C:\Users\Nacho\source\repos\CRUD\CRUD\obj\Debug\net8.0-windows\CRUD.sourcelink.json
